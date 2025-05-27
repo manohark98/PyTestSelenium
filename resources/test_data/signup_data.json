@@ -1,0 +1,23 @@
+[
+  {
+    "name": "laravelf",
+    "email": "laravelf@gmail.com",
+    "title": "Mr",
+    "password": "Password123",
+    "dob": {
+      "day": "10",
+      "month": "5",
+      "year": "1990"
+    },
+    "first_name": "John",
+    "last_name": "Doe",
+    "company": "My Company",
+    "address": "123 Main St",
+    "address2": "Suite 100",
+    "country": "United States",
+    "state": "Texas",
+    "city": "Dallas",
+    "zipcode": "75001",
+    "mobile_number": "1234567890"
+  }
+]
